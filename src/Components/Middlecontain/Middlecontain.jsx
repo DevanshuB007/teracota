@@ -13,7 +13,7 @@ function Middlecontain() {
         </div>
         <div className="cards">
           <div className="card">
-            <img src="	https:creative-ishi.myshopify.com/cdn/shop/files/swdr.gif?v=1679986554" alt="cardImg"></img>
+          <img src="	https://creative-ishi.myshopify.com/cdn/shop/files/swdr.gif?v=1679986554" alt="cardImg"></img>
             <div className="content">
               <h3>Free Delivery Worldwide</h3>
               <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy</p>
