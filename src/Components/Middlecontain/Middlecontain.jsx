@@ -15,7 +15,7 @@ function Middlecontain() {
           <div className="card">
           <img src="	https://creative-ishi.myshopify.com/cdn/shop/files/swdr.gif?v=1679986554" alt="cardImg"></img>
             <div className="content">
-              <h3>Free Delivery Worldwide</h3>
+              <h3>Free Delivery Worldwide</h3> 
               <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy</p>
               <div className="icon">
                 <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="25px" width="25px" xmlns="http:www.w3.org/2000/svg"><path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path></svg>
@@ -75,7 +75,7 @@ function Middlecontain() {
                 <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http:www.w3.org/2000/svg"><path d="M21.822 7.431A1 1 0 0 0 21 7H7.333L6.179 4.23A1.994 1.994 0 0 0 4.333 3H2v2h2.333l4.744 11.385A1 1 0 0 0 10 17h8c.417 0 .79-.259.937-.648l3-8a1 1 0 0 0-.115-.921zM17.307 15h-6.64l-2.5-6h11.39l-2.25 6z"></path><circle cx="10.5" cy="19.5" r="1.5"></circle><circle cx="17.5" cy="19.5" r="1.5"></circle></svg>
               </div>
               <div className="animated-icons-placeHolder"></div>
-              <img className="default-imag" src="https:creative-ishi.myshopify.com/cdn/shop/products/2_9188d6ff-0644-4660-a251-4d0d51433c75_576x.png?v=1679284141" alt="image" className="thumbnail"></img>
+              <img src="https://creative-ishi.myshopify.com/cdn/shop/products/2_9188d6ff-0644-4660-a251-4d0d51433c75_576x.png?v=1679284141" alt="image" class="thumbnail"></img>
               Second-image
               {/* <img src="https:creative-ishi.myshopify.com/cdn/shop/products/3_aad9c139-a5e2-46da-b09a-f98b4af6120d_576x.png?v=1679284141" alt="image" className="large-image"></img>            */}
               <div className="product-rating">
