@@ -77,12 +77,12 @@ function Middlecontain() {
               <div className="animated-icons-placeHolder"></div>
               <img src="https://creative-ishi.myshopify.com/cdn/shop/products/2_9188d6ff-0644-4660-a251-4d0d51433c75_576x.png?v=1679284141" alt="image" class="thumbnail"></img>
               Second-image
-              {/* <img src="https:creative-ishi.myshopify.com/cdn/shop/products/3_aad9c139-a5e2-46da-b09a-f98b4af6120d_576x.png?v=1679284141" alt="image" className="large-image"></img>            */}
+              <img src="https:creative-ishi.myshopify.com/cdn/shop/products/3_aad9c139-a5e2-46da-b09a-f98b4af6120d_576x.png?v=1679284141" alt="image" className="large-image"></img>           
               <div className="product-rating">
                 <div className="product-stars">⭐⭐⭐⭐⭐</div>
               </div>
             </div>
-            <div className="product-desk">
+            <div className="product-desk">  
               <div className="productCard-title">
                 Wowed Art
               </div>
@@ -107,7 +107,7 @@ function Middlecontain() {
               <div className="animated-icons-placeHolder"></div>
               <img src="https://creative-ishi.myshopify.com/cdn/shop/products/3_964ef98c-b632-4a5e-a040-cc1806846876_576x.png?v=1679284416" alt="image" class="thumbnail"></img>
               Second-image
-              {/* <img src="https://creative-ishi.myshopify.com/cdn/shop/products/4_004c6a4c-ff05-46e5-afe6-67b46ea1d599_576x.png?v=1679284416" alt="image" class="large-image"></img>            */}
+              <img src="https://creative-ishi.myshopify.com/cdn/shop/products/4_004c6a4c-ff05-46e5-afe6-67b46ea1d599_576x.png?v=1679284416" alt="image" class="large-image"></img>           
               <div className="product-rating">
                 <div className="product-stars">⭐⭐⭐⭐⭐</div>
               </div>
@@ -137,7 +137,7 @@ function Middlecontain() {
               <div className="animated-icons-placeHolder"></div>
               <img src="https://creative-ishi.myshopify.com/cdn/shop/products/9_b2efdb2c-b550-42a1-865f-1eb37819ad28_576x.png?v=1679285383" alt="image" class="thumbnail"></img>
               Second-image
-              {/* <img src="https://creative-ishi.myshopify.com/cdn/shop/products/10_0ec4549b-3e69-494c-a44e-3721056c1b5d_576x.png?v=1679285383" alt="image" class="large-image"></img>            */}
+              <img src="https://creative-ishi.myshopify.com/cdn/shop/products/10_0ec4549b-3e69-494c-a44e-3721056c1b5d_576x.png?v=1679285383" alt="image" class="large-image"></img>           
               <div className="product-rating">
                 <div className="product-stars">⭐⭐⭐</div>
               </div>
@@ -169,7 +169,7 @@ function Middlecontain() {
               <div className="animated-icons-placeHolder"></div>
               <img src="https://creative-ishi.myshopify.com/cdn/shop/products/1_091d0b15-b264-4fdc-b89f-a2e389e68b4b_576x.png?v=1679055946" alt="image" class="thumbnail"></img>
               Second-image
-              {/*<img src="https://creative-ishi.myshopify.com/cdn/shop/products/18_2830861d-eb89-45a9-9d84-91c19202b670_576x.png?v=1679055946" alt="image" class="large-image"></img>            */}
+              <img src="https://creative-ishi.myshopify.com/cdn/shop/products/18_2830861d-eb89-45a9-9d84-91c19202b670_576x.png?v=1679055946" alt="image" class="large-image"></img>           
               <div className="product-rating">
                 <div className="product-stars">⭐⭐⭐⭐⭐</div>
               </div>
@@ -203,7 +203,7 @@ function Middlecontain() {
               <div className="animated-icons-placeHolder"></div>
               <img src="https://creative-ishi.myshopify.com/cdn/shop/products/5_7cc4653d-332d-427b-9fcd-87a69123f6de_576x.png?v=1679284667" alt="image" class="large-image"></img>
               Second-image
-              {/* <img src="https://creative-ishi.myshopify.com/cdn/shop/products/4_b5ce142f-670b-4fe2-8719-9adb05d591bb_576x.png?v=1679284667" alt="image" class="thumbnail">            */}
+              <img src="https://creative-ishi.myshopify.com/cdn/shop/products/4_b5ce142f-670b-4fe2-8719-9adb05d591bb_576x.png?v=1679284667" alt="image" class="thumbnail"></img>         
               <div className="product-rating">
                 <div className="product-stars">⭐⭐⭐⭐⭐</div>
               </div>
@@ -234,7 +234,7 @@ function Middlecontain() {
               <div className="animated-icons-placeHolder"></div>
               <img src="https://creative-ishi.myshopify.com/cdn/shop/products/16_20cf8fdb-3f60-4410-8129-63fb844a2fb0_576x.png?v=1679285525" alt="image" class="thumbnail"></img>
               Second-image
-              {/* <img src="https://creative-ishi.myshopify.com/cdn/shop/products/11_b68ad577-0632-4870-b159-6fefb30ac117_576x.png?v=1679285526" alt="image" class="large-image">          */}
+              <img src="https://creative-ishi.myshopify.com/cdn/shop/products/11_b68ad577-0632-4870-b159-6fefb30ac117_576x.png?v=1679285526" alt="image" class="large-image"></img>         
               <div className="product-rating">
                 <div className="product-stars">⭐⭐⭐⭐⭐</div>
               </div>
@@ -265,7 +265,7 @@ function Middlecontain() {
               <div className="animated-icons-placeHolder"></div>
               <img src="https://creative-ishi.myshopify.com/cdn/shop/products/13_1e1ffaed-9c0b-49a2-8b97-7ec9ef128453_576x.png?v=1679285455" alt="image" class="thumbnail"></img>
               Second-image
-              {/*<img src="https://creative-ishi.myshopify.com/cdn/shop/products/10_d9d786d5-c5eb-4fd5-b75d-3d59ff0ca14b_576x.png?v=1679285455" alt="image" class="large-image">      */}
+              <img src="https://creative-ishi.myshopify.com/cdn/shop/products/10_d9d786d5-c5eb-4fd5-b75d-3d59ff0ca14b_576x.png?v=1679285455" alt="image" class="large-image"></img>   
               <div className="product-rating">
                 <div className="product-stars">⭐⭐⭐</div>
               </div>
@@ -296,7 +296,7 @@ function Middlecontain() {
               <div className="animated-icons-placeHolder"></div>
               <img src="https://creative-ishi.myshopify.com/cdn/shop/products/7_9fe46ed4-7e3e-479d-ab74-92baf89db6f6_576x.png?v=1679285186" alt="image" class="thumbnail"></img>
               Second-image
-              {/*<img src="https://creative-ishi.myshopify.com/cdn/shop/products/8_d8d32992-6e26-405c-9192-66f822dab5b3_576x.png?v=1679285186" alt="image" class="large-image">          */}
+              <img src="https://creative-ishi.myshopify.com/cdn/shop/products/8_d8d32992-6e26-405c-9192-66f822dab5b3_576x.png?v=1679285186" alt="image" class="large-image"></img>       
               <div className="product-rating">
                 <div className="product-stars">⭐⭐⭐⭐⭐</div>
               </div>
@@ -570,7 +570,7 @@ function Middlecontain() {
               </div>
               <div className="animated-icons-placeHolder"></div>
               <img src="https://creative-ishi.myshopify.com/cdn/shop/products/2_9188d6ff-0644-4660-a251-4d0d51433c75_576x.png?v=1679284141" alt="image" className="thumbnail"></img>
-              {/* {/* <img src="https://creative-ishi.myshopify.com/cdn/shop/products/3_aad9c139-a5e2-46da-b09a-f98b4af6120d_576x.png?v=1679284141" alt="image" className="large-image"> */}
+               <img src="https://creative-ishi.myshopify.com/cdn/shop/products/3_aad9c139-a5e2-46da-b09a-f98b4af6120d_576x.png?v=1679284141" alt="image" className="large-image"></img>
               <div className="old-product-rating">
                 <div className="product-stars">⭐⭐⭐⭐⭐</div>
               </div>
@@ -603,7 +603,7 @@ function Middlecontain() {
               <div className="animated-icons-placeHolder">
               </div>
               <img src="https://creative-ishi.myshopify.com/cdn/shop/products/3_964ef98c-b632-4a5e-a040-cc1806846876_576x.png?v=1679284416" alt="image" className="thumbnail"></img>
-              {/* <img src="https://creative-ishi.myshopify.com/cdn/shop/products/4_004c6a4c-ff05-46e5-afe6-67b46ea1d599_576x.png?v=1679284416" alt="image" className="large-image"> */}
+              <img src="https://creative-ishi.myshopify.com/cdn/shop/products/4_004c6a4c-ff05-46e5-afe6-67b46ea1d599_576x.png?v=1679284416" alt="image" className="large-image"></img>
               <div className="old-product-rating">
                 <div className="product-stars">⭐⭐⭐⭐⭐</div>
               </div>
@@ -635,7 +635,7 @@ function Middlecontain() {
               <div className="animated-icons-placeHolder">
               </div>
               <img src="https://creative-ishi.myshopify.com/cdn/shop/products/9_b2efdb2c-b550-42a1-865f-1eb37819ad28_576x.png?v=1679285383" alt="image" className="thumbnail"></img>
-              {/* {/* <img src="https://creative-ishi.myshopify.com/cdn/shop/products/10_0ec4549b-3e69-494c-a44e-3721056c1b5d_576x.png?v=1679285383" alt="image" className="large-image"> */}
+              <img src="https://creative-ishi.myshopify.com/cdn/shop/products/10_0ec4549b-3e69-494c-a44e-3721056c1b5d_576x.png?v=1679285383" alt="image" className="large-image"></img>
               <div className="old-product-rating">
                 <div className="product-stars">⭐⭐⭐</div>
               </div>
